@@ -2,6 +2,6 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='1.1ExceptionsDoTryCatch'/>
-        <page name='Untitled Page 2'/>
+        <page name='1.2GuardSyntax'/>
     </pages>
 </playground>
