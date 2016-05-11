@@ -3,5 +3,7 @@
     <pages>
         <page name='1.1ExceptionsDoTryCatch'/>
         <page name='1.2GuardSyntax'/>
+        <page name='1.3Defersyntax'/>
+        <page name='UISwitchCustom'/>
     </pages>
 </playground>
